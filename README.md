@@ -14,7 +14,7 @@ drive attrition — enabling HR to take targeted retention action.
 - **New employees (0–2 years)** have the highest attrition risk
 
 ## Dashboard Preview
-![Dashboard](HR_Attrition_Dashboard.pdf)
+![Dashboard](HR-Attrition-Dashboard.pdf)
 
 ## Tools Used
 - **Python** — pandas, seaborn, matplotlib, scikit-learn
